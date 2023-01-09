@@ -1,0 +1,24 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShuaibShaban/react-hooks-npm-lab.git"
+  },
+  "author": "Shaban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShuaibShaban/react-hooks-npm-lab/issues"
+  },
+  "homepage": "https://github.com/ShuaibShaban/react-hooks-npm-lab#readme",
+  "description": "",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "serve": "^14.1.2"
+  }
+}
